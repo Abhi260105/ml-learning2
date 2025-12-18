@@ -326,7 +326,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Your Name**  
 - GitHub: [@yourusername](https://github.com/Abhi260105)
 - Email: abhishekmahadule190@gmail.com
-- LinkedIn:(https://linkedin.com/in/yourprofile)
+- LinkedIn:(https://linkedin.com/in/abhishek-mahadule)
 
 ---
 
